@@ -1,19 +1,19 @@
-const variables = {
-  greetings: {
+const variables = {'
+  greetings: {'
     morning: "Good Morning",
     day: "Good Day",
     afternoon: "Good Afternoon",
     evening: "Good Evening",
     night: "Good Night",
-  },
-  quotes: [
-    { quote: "I'm sorry for loving you.", author: "standinhsd" },
-    { quote: "I love you.", author: "Brian" },
-    { quote: "Aku sayang kamu!", author: "Ian" },
-    { quote: "Ian sayang Ava ♥", author: "Ian-nya Ava!" },
-    { quote: "Love chuuu", author: "Bribri" },
-  ],
-  nicknames: ["Ava", "Avakuu", "Sayang", "Babe", "Cintaku", "Cinta"],
+  '},
+  quotes: ['
+    { quote: "gak makan gak hidup-_.", author: "u h u y^^" '},
+    { quote: "makan siang harus.", author: "><" },
+    { quote: "tidur siang biar enak", author: "haha,bener-_-" '},
+    { quote: "jan lupa sholat ashar nya><", author: "slurrpp" '},
+    { quote: "tidur!", author: "byeee^^" '},
+  '],
+  nicknames: ["Leonard","Leonard3138","leonard"'],
   generated: ["{greetings}, {nicknames}!"],
 };
 
